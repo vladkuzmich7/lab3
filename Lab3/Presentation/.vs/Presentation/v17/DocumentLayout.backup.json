@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lab3\\Lab3\\Presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43A0581C-C448-41FC-9EC4-9E3650A7C4B1}|Presentation.csproj|c:\\lab3\\lab3\\presentation\\console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A0581C-C448-41FC-9EC4-9E3650A7C4B1}|Presentation.csproj|solutionrelative:console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A0581C-C448-41FC-9EC4-9E3650A7C4B1}|Presentation.csproj|c:\\lab3\\lab3\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A0581C-C448-41FC-9EC4-9E3650A7C4B1}|Presentation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F3549F-F0E8-4BDA-BD04-11BC0EEB1674}|..\\Application\\Application.csproj|c:\\lab3\\lab3\\application\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C1238F-3EC8-20F4-994E-AB5AB921761B}|..\\DataAccess\\DataAccess.csproj|c:\\lab3\\lab3\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F3549F-F0E8-4BDA-BD04-11BC0EEB1674}|..\\Application\\Application.csproj|c:\\lab3\\lab3\\application\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\Lab3\\Application\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\05a6a5a0-5630-44e8-b1c4-85e0e89867fb\\https_api_breakingbadquotes_xyz_v1_quotes_.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\plt (1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\DataAccess\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\QuoteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\DTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\MSTestSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\Test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\Lab3_Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\Lab3\\Domain\\Domian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\Lab3\\DataAccess\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\Downloads\\Lab3\\Application\\Quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0d88d125-84f9-49ef-ae2f-e54b55205e08}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\lab3\\Lab3\\Application\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Student.cs",
+              "ToolTip": "C:\\lab3\\Lab3\\Application\\Student.cs",
+              "RelativeToolTip": "..\\Application\\Student.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:40:52.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\lab3\\Lab3\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\lab3\\Lab3\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "..\\DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T09:40:51.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\lab3\\Lab3\\Application\\Quote.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Quote.cs",
+              "ToolTip": "C:\\lab3\\Lab3\\Application\\Quote.cs",
+              "RelativeToolTip": "..\\Application\\Quote.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:40:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lab3\\Lab3\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\lab3\\Lab3\\Presentation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:31:01.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Console.cs",
+              "DocumentMoniker": "C:\\lab3\\Lab3\\Presentation\\Console.cs",
+              "RelativeDocumentMoniker": "Console.cs",
+              "ToolTip": "C:\\lab3\\Lab3\\Presentation\\Console.cs",
+              "RelativeToolTip": "Console.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:28:20.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:45:05.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\Test1.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\Test1.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\Test1.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAgwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:00:26.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Lab3_Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\Lab3_Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\Lab3_Tests.csproj",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\Lab3_Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\Lab3_Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T12:38:05.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Domian.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3\\Domain\\Domian.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Domain\\Domian.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\Lab3\\Domain\\Domian.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Domain\\Domian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:45:03.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3\\Application\\Student.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Application\\Student.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\Lab3\\Application\\Student.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Application\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:41:40.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3\\DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\DataAccess\\Repository.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\Lab3\\DataAccess\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\DataAccess\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:41:32.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3\\Application\\Quote.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Application\\Quote.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\Lab3\\Application\\Quote.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Application\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:39:24.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "https_api_breakingbadquotes_xyz_v1_quotes_.json",
+              "DocumentMoniker": "C:\\Users\\Vlad\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\05a6a5a0-5630-44e8-b1c4-85e0e89867fb\\https_api_breakingbadquotes_xyz_v1_quotes_.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\05a6a5a0-5630-44e8-b1c4-85e0e89867fb\\https_api_breakingbadquotes_xyz_v1_quotes_.json",
+              "ToolTip": "C:\\Users\\Vlad\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\05a6a5a0-5630-44e8-b1c4-85e0e89867fb\\https_api_breakingbadquotes_xyz_v1_quotes_.json",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\05a6a5a0-5630-44e8-b1c4-85e0e89867fb\\https_api_breakingbadquotes_xyz_v1_quotes_.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T14:09:22.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\DataAccess\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\DataAccess\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\DataAccess\\StudentRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\DataAccess\\StudentRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:28:11.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "plt (1).py",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\plt (1).py",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\plt (1).py",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\plt (1).py",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\plt (1).py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMOSURBVEhLrZXBT2NVFIe/e98rPrStjBRoxhoxLtSoiRh14mgi8wfwBzQ0YaELFiazImEkJhB0AqEL2MjChQsWuCNduHAFSUlwgaZRxjKmphMZldASn/TRx0jb46K0vD6GaarzJScv955zz\u002B\u002Be\u002B965T5F2bqLUxyAmnWGHlDNdei\u002Ba8juaiIhi03EBy\u002B9rR0gfEzKcyhV19Padd4Yyfn8DxaYj/sl2nCUnrEt0GQfOT93b34viLI\u002B6j/Apr9y6B6B9a9viTR7WJfpUNfhS9ZkPgOG6SQLFbCP\u002BYgXvB1uGHbN7G2CDlz\u002B5wX\u002BpoFMuFUin0\u002BTzebLZLKurq0SjUQDGxsZIp9Nks1mWl5cJBh9d8aUCsViMyclJRkZGsCyLhYUFRkdHSSaTJJNJ4vE4g4ODrKystKx7Qbkt40sFGlQqFU5OTgBIJBLMzc2RSqXIZDLE43GWlpZa4m9Zdwhofm\u002BMHymwuLjI\u002Bvo6lmUxMTFBNBrFtu2m37ZtNjY2Wta8GdgnFfqmdD6z6UiLgQCSz\u002BdleHi4OQZkdnZWtra2JBgMCiBTU1OytrbWEnN3/3X58\u002BD5078Onn2DdhX4mZmZIZfLUSgU2NvbY3x8nPn5\u002BZaYsC7RrR6YSlW\u002BEsFs6YOQPqZ0fQDOXnKxWGyev5eenh5isRg7Ozt\u002BF3ah/rUBKJhuCjQ69I9rL3rjO8YrgFDUCPe97f9YUUR02Dj\u002BKGQ4TuNuedzoo\u002BsD3/Z3HT1nmYXpgHFY9Qf8XzRAZmjIznRvX9t98gej4RCRh1qneD7T2o0H0syPUuqh1ikeAWW6Hf8123O\u002Bpd3bp4AZVv8Q0S4R5XqeZSLa5VXjkNfMAr2\u002BC\u002B0ylKJyoZPLEqAsJmVMymLiYuJKAFdM7lXDfHd6lR\u002Br/fxde4KqZ38XkRpw0ytQA6igmgldqYvUxQJN0cOaxW\u002B1MIXaU1QwbGAb\u002BFqUfKZQCaXlXX1qDDwd2f/ifAs/f/4lhv4QEdVFrX48ukxEufQqt9Sny3f7tJvr1Se5Xu3u9mv31ys1J/fW1V\u002BKnk1e4F9LbFpu\u002BpIkdAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-14T23:27:09.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\StudentService.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\StudentService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwC0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:28:07.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\QuoteService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\QuoteService.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\QuoteService.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\QuoteService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:27:47.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\Student.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:28:15.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\DTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\DTO.cs",
+              "ToolTip": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\DTO.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\DTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:28:16.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
