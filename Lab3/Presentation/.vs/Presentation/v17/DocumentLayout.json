@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\lab3\\Lab3\\Presentation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\lab3\\lab3\\domain\\domian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43A0581C-C448-41FC-9EC4-9E3650A7C4B1}|Presentation.csproj|c:\\lab3\\lab3\\presentation\\console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43A0581C-C448-41FC-9EC4-9E3650A7C4B1}|Presentation.csproj|solutionrelative:console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,7 +72,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,7 +80,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Domian.cs",
+              "DocumentMoniker": "C:\\lab3\\Lab3\\Domain\\Domian.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Domian.cs",
+              "ToolTip": "C:\\lab3\\Lab3\\Domain\\Domian.cs",
+              "RelativeToolTip": "..\\Domain\\Domian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:47:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\lab3\\Lab3\\Application\\Student.cs",
               "RelativeDocumentMoniker": "..\\Application\\Student.cs",
@@ -85,25 +101,23 @@
               "RelativeToolTip": "..\\Application\\Student.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T09:40:52.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T09:40:52.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataAccess",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.csproj",
               "DocumentMoniker": "C:\\lab3\\Lab3\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
               "ToolTip": "C:\\lab3\\Lab3\\DataAccess\\DataAccess.csproj",
               "RelativeToolTip": "..\\DataAccess\\DataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-16T09:40:51.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T09:40:51.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Quote.cs",
               "DocumentMoniker": "C:\\lab3\\Lab3\\Application\\Quote.cs",
               "RelativeDocumentMoniker": "..\\Application\\Quote.cs",
@@ -111,12 +125,11 @@
               "RelativeToolTip": "..\\Application\\Quote.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T09:40:48.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T09:40:48.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\lab3\\Lab3\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -124,12 +137,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:31:01.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T14:31:01.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Console.cs",
               "DocumentMoniker": "C:\\lab3\\Lab3\\Presentation\\Console.cs",
               "RelativeDocumentMoniker": "Console.cs",
@@ -137,12 +149,11 @@
               "RelativeToolTip": "Console.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:28:20.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T14:28:20.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\MSTestSettings.cs",
@@ -154,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Test1.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\Test1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\Test1.cs",
@@ -166,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Lab3_Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3_Tests\\Lab3_Tests.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3_Tests\\Lab3_Tests.csproj",
@@ -178,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Domian.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3\\Domain\\Domian.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Domain\\Domian.cs",
@@ -190,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3\\Application\\Student.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Application\\Student.cs",
@@ -198,12 +209,11 @@
               "RelativeToolTip": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Application\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T12:41:40.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:41:40.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3\\DataAccess\\Repository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\DataAccess\\Repository.cs",
@@ -215,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Quote.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\Lab3\\Application\\Quote.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\Lab3\\Application\\Quote.cs",
@@ -227,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "https_api_breakingbadquotes_xyz_v1_quotes_.json",
               "DocumentMoniker": "C:\\Users\\Vlad\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\05a6a5a0-5630-44e8-b1c4-85e0e89867fb\\https_api_breakingbadquotes_xyz_v1_quotes_.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\05a6a5a0-5630-44e8-b1c4-85e0e89867fb\\https_api_breakingbadquotes_xyz_v1_quotes_.json",
@@ -239,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\DataAccess\\StudentRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\DataAccess\\StudentRepository.cs",
@@ -251,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "plt (1).py",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\plt (1).py",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\plt (1).py",
@@ -263,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\StudentService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\StudentService.cs",
@@ -275,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "QuoteService.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\QuoteService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Application\\QuoteService.cs",
@@ -287,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\Student.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\Student.cs",
@@ -299,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DTO.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\DTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Vlad\\Downloads\\OOP_Labs-Lab3\\Domain\\DTO.cs",
